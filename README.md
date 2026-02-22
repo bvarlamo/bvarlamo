@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I am a Junior Linux System Administrator with hands-on experience building and managing Linux-based infrastructure through personal projects, including reverse proxies, high-availability PostgreSQL clusters, monitoring, and backups. I have experience in 24/7 datacenter operations, performing incident triage and hardware support. I built my engineering foundation at 42 school, where I completed extensive projects in system programming and full-stack development.
+I am a Junior DevOps/Sysadmin with hands-on experience building and managing Linux-based infrastructure through personal projects, including reverse proxies, high-availability PostgreSQL clusters, monitoring, and backups. I have experience in 24/7 datacenter operations, performing incident triage and hardware support. I built my engineering foundation at 42 school, where I completed extensive projects in system programming and full-stack development.
 
 42 Wolfsburg, a software engineering school with project-based peer-to-peer learning education model, known for its rigorous and immersive curriculum. Throughout my time at 42, I developed a strong foundation in computer science and a passion for problem-solving. In 42 I learned C and basics of C++, docker, PostgreSQL, TypeScript, NestJS. Developed simple software using classic algorithms, discovered access to the file system, and learned management of the UNIX process. Also a simple first approach to network architecture as well as system administration.
 
