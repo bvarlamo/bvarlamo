@@ -1,5 +1,4 @@
 <h1> Hey there! I'm Boriss 👋 </h1>
-<h2> I am a software engineering student with a background in business consulting </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
